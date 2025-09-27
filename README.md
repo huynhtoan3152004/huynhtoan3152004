@@ -97,8 +97,7 @@
 - **Features:** Desktop application with database integration
 
 ---
-
-
+## 🐍 Watch my contribution graph get eaten by the snake!
 
 <div align="center">
   <picture>
