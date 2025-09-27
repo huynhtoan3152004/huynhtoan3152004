@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Yujihiro;Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,25 +38,13 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-### 🛠️ Tools & IDEs
-<p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-</p>
-
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
 
 ---
@@ -74,29 +62,79 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Popular Repositories
 
-### 🎬 [MyCinemaBooking.API](https://github.com/huynhtoan3152004/MyCinemaBooking.API)
-> RESTful API for cinema ticket booking system built with ASP.NET Core
-- **Tech Stack:** ASP.NET Core, Entity Framework, SQL Server
-- **Features:** User authentication, booking management, payment integration
-
-### 🛒 [E-commerce UI](https://github.com/huynhtoan3152004/e-commerce-ui)
-> Modern e-commerce frontend with responsive design
-- **Tech Stack:** React.js, JavaScript, CSS3
-- **Features:** Product catalog, shopping cart, user dashboard
-
-### 📱 [Shopping App Design](https://github.com/huynhtoan3152004/Shopping-App-Design)
-> Mobile shopping application with intuitive user interface
-- **Tech Stack:** React Native, Mobile UI/UX
-- **Features:** Cross-platform compatibility, modern design patterns
-
-### 🎓 [PRN222 Assignment](https://github.com/huynhtoan3152004/FA25_PRN222_SE1834_ASM1_QE180078_ToanHH)
-> Academic project demonstrating C# and .NET proficiency
-- **Tech Stack:** C#, .NET Framework, Windows Forms
-- **Features:** Desktop application with database integration
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎬 Cinema Booking API</h3>
+        <div align="center">  
+          <a href="https://github.com/huynhtoan3152004/MyCinemaBooking.API" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight" alt="Cinema Booking API"/>
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+            <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+          </p>
+          <p><strong>RESTful API for cinema ticket booking system with authentication & payment integration</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛒 E-commerce UI</h3>
+        <div align="center">
+          <a href="https://github.com/huynhtoan3152004/e-commerce-ui" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=e-commerce-ui&theme=tokyonight" alt="E-commerce UI"/>
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+          </p>
+          <p><strong>Modern e-commerce frontend with responsive design & shopping cart functionality</strong></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎓 PRN222 Assignment</h3>
+        <div align="center">
+          <a href="https://github.com/huynhtoan3152004/FA25_PRN222_SE1834_ASM1_QE180078_ToanHH" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=FA25_PRN222_SE1834_ASM1_QE180078_ToanHH&theme=tokyonight" alt="PRN222 Assignment"/>
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+          </p>
+          <p><strong>Academic project demonstrating C# and .NET proficiency with database integration</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📱 Shopping App Design</h3>
+        <div align="center">
+          <a href="https://github.com/huynhtoan3152004/Shopping-App-Design" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=Shopping-App-Design&theme=tokyonight" alt="Shopping App Design"/>
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/UI/UX-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
+            <img src="https://img.shields.io/badge/Mobile-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Mobile"/>
+          </p>
+          <p><strong>Mobile shopping application design with intuitive user interface & modern UX patterns</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
+
 ## 🐍 Watch my contribution graph get eaten by the snake!
 
 <div align="center">
@@ -106,6 +144,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huynhtoan3152004/huynhtoan3152004/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 ---
 
 ## 📈 Activity Graph
@@ -135,5 +174,3 @@
 
 <div align="center">
   <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</p>
-</div>
