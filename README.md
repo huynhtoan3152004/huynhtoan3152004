@@ -98,7 +98,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <div align="center">
   <picture>
@@ -107,7 +107,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huynhtoan3152004/huynhtoan3152004/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 ---
 
 ## 📈 Activity Graph
