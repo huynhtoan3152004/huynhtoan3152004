@@ -68,103 +68,84 @@
 
 ## 🏆 Popular Repositories
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎬 MyCinemaBooking.API</h3>
-        <div align="center">
-          <a href="https://github.com/huynhtoan3152004/MyCinemaBooking.API" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight" alt="MyCinemaBooking.API"/>
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-            <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-          </p>
-          <p><strong>RESTful API for cinema ticket booking system</strong></p>
-        </div>
-      </td>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎬 MyCinemaBooking.API</h3>
+      <a href="https://github.com/huynhtoan3152004/MyCinemaBooking.API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      </p>
+      <p><b>RESTful API for cinema ticket booking system</b></p>
+    </td>
 
-      <td width="50%">
-        <h3 align="center">🎉 Event-Management-FPT-BE</h3>
-        <div align="center">
-          <a href="https://github.com/huynhtoan3152004/Event-Management-FPT-BE" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=Event-Management-FPT-BE&theme=tokyonight" alt="Event-Management-FPT-BE"/>
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-          </p>
-          <p><strong>Backend service for event management</strong></p>
-        </div>
-      </td>
-    </tr>
+    <td align="center" width="50%">
+      <h3>🎉 Event-Management-FPT-BE</h3>
+      <a href="https://github.com/huynhtoan3152004/Event-Management-FPT-BE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=Event-Management-FPT-BE&theme=tokyonight" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
+      </p>
+      <p><b>Backend service for event management</b></p>
+    </td>
+  </tr>
 
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧩 DEMIF</h3>
-        <div align="center">
-          <a href="https://github.com/huynhtoan3152004/DEMIF" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=DEMIF&theme=tokyonight" alt="DEMIF"/>
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-          </p>
-          <p><strong>TypeScript-based project with modern UI styling</strong></p>
-        </div>
-      </td>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧩 DEMIF</h3>
+      <a href="https://github.com/huynhtoan3152004/DEMIF">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=DEMIF&theme=tokyonight" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      </p>
+      <p><b>TypeScript-based project with modern UI styling</b></p>
+    </td>
 
-      <td width="50%">
-        <h3 align="center">✨ BeautySky-BE</h3>
-        <div align="center">
-          <a href="https://github.com/huynhtoan3152004/BeautySky-BE" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=BeautySky-BE&theme=tokyonight" alt="BeautySky-BE"/>
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-            <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-          </p>
-          <p><strong>Backend API for BeautySky platform</strong></p>
-        </div>
-      </td>
-    </tr>
+    <td align="center" width="50%">
+      <h3>✨ BeautySky-BE</h3>
+      <a href="https://github.com/huynhtoan3152004/BeautySky-BE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=BeautySky-BE&theme=tokyonight" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+      </p>
+      <p><b>Backend API for BeautySky platform</b></p>
+    </td>
+  </tr>
 
-    <tr>
-      <td width="50%">
-        <h3 align="center">☕ SWD-BE</h3>
-        <div align="center">
-          <a href="https://github.com/Tanaka-2204/SWD-BE" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanaka-2204&repo=SWD-BE&theme=tokyonight" alt="SWD-BE"/>
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-          </p>
-          <p><strong>Java Spring Boot backend service</strong></p>
-        </div>
-      </td>
+  <tr>
+    <td align="center" width="50%">
+      <h3>☕ SWD-BE</h3>
+      <a href="https://github.com/Tanaka-2204/SWD-BE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanaka-2204&repo=SWD-BE&theme=tokyonight" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      </p>
+      <p><b>Java Spring Boot backend service</b></p>
+    </td>
 
-      <td width="50%">
-        <h3 align="center">📌 More Projects</h3>
-        <div align="center">
-          <a href="https://github.com/huynhtoan3152004?tab=repositories" target="_blank">
-            <img src="https://img.shields.io/badge/View_All_Repositories-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
-          </a>
-          <br><br>
-          <p><strong>Explore all my repositories on GitHub</strong></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+    <td align="center" width="50%">
+      <h3>📌 More Projects</h3>
+      <a href="https://github.com/huynhtoan3152004?tab=repositories">
+        <img src="https://img.shields.io/badge/View_All_Repositories-24292e?style=flat&logo=github&logoColor=white"/>
+      </a>
+      <p><b>Explore all my repositories on GitHub</b></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🐍 Watch my contribution graph get eaten by the snake!
