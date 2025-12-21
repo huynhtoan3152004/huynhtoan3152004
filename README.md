@@ -68,83 +68,20 @@
 
 ## 🏆 Popular Repositories
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎬 MyCinemaBooking.API</h3>
-      <a href="https://github.com/huynhtoan3152004/MyCinemaBooking.API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      </p>
-      <p><b>RESTful API for cinema ticket booking system</b></p>
-    </td>
+| 🎬 MyCinemaBooking.API | ✨ BeautySky-BE |
+|---|---|
+| [![MyCinemaBooking.API](https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight)](https://github.com/huynhtoan3152004/MyCinemaBooking.API) | [![BeautySky-BE](https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=BeautySky-BE&theme=tokyonight)](https://github.com/huynhtoan3152004/BeautySky-BE) |
+| **RESTful API for cinema ticket booking system**<br/>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | **Backend API for BeautySky platform**<br/>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) |
 
-    <td align="center" width="50%">
-      <h3>🎉 Event-Management-FPT-BE</h3>
-      <a href="https://github.com/huynhtoan3152004/Event-Management-FPT-BE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=Event-Management-FPT-BE&theme=tokyonight" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/>
-      </p>
-      <p><b>Backend service for event management</b></p>
-    </td>
-  </tr>
+| 🎉 Event-Management-FPT-BE | ☕ SWD-BE |
+|---|---|
+| [![Event-Management-FPT-BE](https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=Event-Management-FPT-BE&theme=tokyonight)](https://github.com/huynhtoan3152004/Event-Management-FPT-BE) | [![SWD-BE](https://github-readme-stats.vercel.app/api/pin/?username=Tanaka-2204&repo=SWD-BE&theme=tokyonight)](https://github.com/Tanaka-2204/SWD-BE) |
+| **Backend service for event management**<br/>![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) | **Java Spring Boot backend service**<br/>![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧩 DEMIF</h3>
-      <a href="https://github.com/huynhtoan3152004/DEMIF">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=DEMIF&theme=tokyonight" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-      </p>
-      <p><b>TypeScript-based project with modern UI styling</b></p>
-    </td>
-
-    <td align="center" width="50%">
-      <h3>✨ BeautySky-BE</h3>
-      <a href="https://github.com/huynhtoan3152004/BeautySky-BE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=BeautySky-BE&theme=tokyonight" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-      </p>
-      <p><b>Backend API for BeautySky platform</b></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <h3>☕ SWD-BE</h3>
-      <a href="https://github.com/Tanaka-2204/SWD-BE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanaka-2204&repo=SWD-BE&theme=tokyonight" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      </p>
-      <p><b>Java Spring Boot backend service</b></p>
-    </td>
-
-    <td align="center" width="50%">
-      <h3>📌 More Projects</h3>
-      <a href="https://github.com/huynhtoan3152004?tab=repositories">
-        <img src="https://img.shields.io/badge/View_All_Repositories-24292e?style=flat&logo=github&logoColor=white"/>
-      </a>
-      <p><b>Explore all my repositories on GitHub</b></p>
-    </td>
-  </tr>
-</table>
+| 🧩 DEMIF | 📌 More Projects |
+|---|---|
+| [![DEMIF](https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=DEMIF&theme=tokyonight)](https://github.com/huynhtoan3152004/DEMIF) | [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-24292e?style=flat&logo=github&logoColor=white)](https://github.com/huynhtoan3152004?tab=repositories) |
+| **TypeScript-based project with modern UI styling**<br/>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | **Explore all my repositories on GitHub** |
 
 ---
 
