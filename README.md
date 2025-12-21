@@ -72,71 +72,99 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🎬 Cinema Booking API</h3>
+        <h3 align="center">🎬 MyCinemaBooking.API</h3>
         <div align="center">  
           <a href="https://github.com/huynhtoan3152004/MyCinemaBooking.API" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight" alt="Cinema Booking API"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight" alt="MyCinemaBooking.API"/>
           </a>
-          <br>
-          <br>
+          <br><br>
           <p>
             <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
             <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
           </p>
-          <p><strong>RESTful API for cinema ticket booking system with authentication & payment integration</strong></p>
+          <p><strong>RESTful API for cinema ticket booking system</strong></p>
         </div>
       </td>
+
       <td width="50%">
-        <h3 align="center">🛒 E-commerce UI</h3>
+        <h3 align="center">🎉 Event-Management-FPT-BE</h3>
         <div align="center">
-          <a href="https://github.com/huynhtoan3152004/e-commerce-ui" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=e-commerce-ui&theme=tokyonight" alt="E-commerce UI"/>
+          <a href="https://github.com/huynhtoan3152004/Event-Management-FPT-BE" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=Event-Management-FPT-BE&theme=tokyonight" alt="Event-Management-FPT-BE"/>
           </a>
-          <br>
-          <br>
-          <p>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-          </p>
-          <p><strong>Modern e-commerce frontend with responsive design & shopping cart functionality</strong></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎓 PRN222 Assignment</h3>
-        <div align="center">
-          <a href="https://github.com/huynhtoan3152004/FA25_PRN222_SE1834_ASM1_QE180078_ToanHH" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=FA25_PRN222_SE1834_ASM1_QE180078_ToanHH&theme=tokyonight" alt="PRN222 Assignment"/>
-          </a>
-          <br>
-          <br>
+          <br><br>
           <p>
             <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
             <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
           </p>
-          <p><strong>Academic project demonstrating C# and .NET proficiency with database integration</strong></p>
+          <p><strong>Backend service for event management</strong></p>
         </div>
       </td>
+    </tr>
+
+    <tr>
       <td width="50%">
-        <h3 align="center">📱 Shopping App Design</h3>
+        <h3 align="center">🧩 DEMIF</h3>
         <div align="center">
-          <a href="https://github.com/huynhtoan3152004/Shopping-App-Design" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=Shopping-App-Design&theme=tokyonight" alt="Shopping App Design"/>
+          <a href="https://github.com/huynhtoan3152004/DEMIF" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=DEMIF&theme=tokyonight" alt="DEMIF"/>
           </a>
-          <br>
-          <br>
+          <br><br>
           <p>
-            <img src="https://img.shields.io/badge/UI/UX-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
-            <img src="https://img.shields.io/badge/Mobile-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Mobile"/>
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
           </p>
-          <p><strong>Mobile shopping application design with intuitive user interface & modern UX patterns</strong></p>
+          <p><strong>TypeScript-based project with modern UI styling</strong></p>
+        </div>
+      </td>
+
+      <td width="50%">
+        <h3 align="center">✨ BeautySky-BE</h3>
+        <div align="center">
+          <a href="https://github.com/huynhtoan3152004/BeautySky-BE" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=BeautySky-BE&theme=tokyonight" alt="BeautySky-BE"/>
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+            <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+          </p>
+          <p><strong>Backend API for BeautySky platform</strong></p>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="50%">
+        <h3 align="center">☕ SWD-BE</h3>
+        <div align="center">
+          <a href="https://github.com/Tanaka-2204/SWD-BE" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanaka-2204&repo=SWD-BE&theme=tokyonight" alt="SWD-BE"/>
+          </a>
+          <br><br>
+          <p>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+          </p>
+          <p><strong>Java Spring Boot backend service</strong></p>
+        </div>
+      </td>
+
+      <td width="50%">
+        <h3 align="center">📌 More Projects</h3>
+        <div align="center">
+          <a href="https://github.com/huynhtoan3152004?tab=repositories" target="_blank">
+            <img src="https://img.shields.io/badge/View_All_Repositories-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+          </a>
+          <br><br>
+          <p><strong>Explore all my repositories on GitHub</strong></p>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ## 🐍 Watch my contribution graph get eaten by the snake!
