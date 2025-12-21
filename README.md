@@ -73,7 +73,7 @@
     <tr>
       <td width="50%">
         <h3 align="center">🎬 MyCinemaBooking.API</h3>
-        <div align="center">  
+        <div align="center">
           <a href="https://github.com/huynhtoan3152004/MyCinemaBooking.API" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhtoan3152004&repo=MyCinemaBooking.API&theme=tokyonight" alt="MyCinemaBooking.API"/>
           </a>
